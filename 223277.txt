@@ -1,0 +1,35 @@
+1. Izraboteno
+2. git checkout -b master
+3. git remote add origin https://github.com/TeodorJ13/SI_2024_lab1_223277.git
+4. mkdir SI_2024_lab1_223277 | cd SI_2024_lab1_223277 | git init
+5. git remote add origin https://github.com/TeodorJ13/SI_2024_lab1_223277.git
+6. touch README.md | git add README.md | git commit -m "Initial commit"
+7. git add SILab1Main/SILab1_1/SILab1_2 | git commit -m "Add starter code"
+8. git push origin master
+9. git checkout -b bug1 | git checkout -b bug2
+10. git checkout bug1
+11. git commit -m "Fix wrong condition in filterOddLengthStrings"
+12. git checkout bug2
+13. git commit -m "Fix wrong condition in makeBigStringFrom"
+14. git checkout bug1
+15. git commit -m "Call method makeBigStringFrom in main class"
+16. git checkout bug2
+17. git commit -m "Call method makeBigStringFrom in main class"
+18. git push origin master | git push origin bug1 | git push origin bug2
+19. git checkout master
+20. git merge bug1 
+21. git push origin master | git push origin bug1 | git push origin bug2
+22. git checkout bug2
+23. ima konflikt / ima opcija za sreduvanje ama 3 pati mi se zezna celiot program ne bi testiral pak :)
+24. git checkout master
+25. git merge bug2
+26. git push origin master/bug1/bug2
+27. git push origin master/bug1/bug2
+28. touch logs.txt | git log | nano logs.txt | git add logs.txt | git add 223277.txt | git commit -m "Final commit"
+29. git push origin master/bug1/bug2
+30. Napraveno
+31. git clone https://github.com/TeodorJ13/SI_2024_223277.git
+32. cd SI_2024_223277 | touch 223277.txt | nano 223277.txt | git add 223277.txt | git commit -m "Add file"
+33. git push origin master
+34. Izvrseno
+35. Izvrseno

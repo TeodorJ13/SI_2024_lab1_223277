@@ -1,0 +1,29 @@
+commit 6c7d04d17d4008754898fa360de250d44f5518f1 (HEAD -> master, origin/master, origin/bug1, bug1)
+Author: TeodorJ <teodor.jovanovski.1@students.finki.ukim.mk>
+Date:   Sat Apr 6 14:29:07 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 0d00a87339657b14fc14deeaacd82179cccb877b
+Author: TeodorJ <teodor.jovanovski.1@students.finki.ukim.mk>
+Date:   Sat Apr 6 14:26:39 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 17b95e0c8b8ff9589a5447574a04577e4315a550
+Author: TeodorJ <teodor.jovanovski.1@students.finki.ukim.mk>
+Date:   Sat Apr 6 14:23:32 2024 +0200
+
+    Add starter code
+
+commit 3d8600e65b8e83dbd6d88d5bd0ef201b268e84c8
+Author: TeodorJ <teodor.jovanovski.1@students.finki.ukim.mk>
+Date:   Sat Apr 6 14:21:39 2024 +0200
+
+    Initial commit
+
+commit aedd3a0925061694aaae537dd5657f4073daf32d
+Author: TeodorJ <teodor.jovanovski.1@students.finki.ukim.mk>
+Date:   Sat Apr 6 14:20:12 2024 +0200
+
+    Initial commit
